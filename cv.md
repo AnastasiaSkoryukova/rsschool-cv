@@ -23,3 +23,7 @@ To see my pet project that I made to test my skills you may visit my website: ht
 I have never participated in the real projects yet as I am just a beginner in the sphere of iOS development but I have a great passion for it and enjoy learning new things every day. Previously I worked as an HR record keeping manager and an IT recruiter on several projects as I enjoy communication and the fact that I can do something to improve the people’s lives. 
 
 At some point, about a year ago, I understood that I have a strong desire to create something, not only communicate and prepare some documents(but for sure this type of activity is really valuable too). I have always enjoyed using Apple products in my day-to-day activities, and started to learn Swift. 
+## Education
+In 2016 I have graduated from Saint-Petersburg State University of Economics and got bachelors degree in Hotel Business. To understand the basics of ios development I have participated in courses of Sean Allen: one for the beginners, another for better understanding of project organization and another one about Swift UI. Also I used tutorials of Paul Hudson and Ray Wenderlich for self-education.
+## English
+I have always been working for international companies and used English for communication all the time. 
